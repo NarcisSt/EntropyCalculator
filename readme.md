@@ -1,7 +1,7 @@
 ## Entropy calculator
 Author: Barat Narcis-Stefan
 
-###Output
+### Output
 ```bash
 Introduceti prima partitie descendenta: 
 +: 5
